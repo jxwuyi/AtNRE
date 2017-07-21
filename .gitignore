@@ -1,0 +1,13 @@
+.*.swp
+*.pyc
+*~
+data/*
+log/*
+model/*
+.idea/*
+backup_scripts/*
+.ipynb_checkpoints/*
+baseline/.ipynb_checkpoints/*
+baseline/model/*
+baseline/log/*
+baseline/pkl_data/*
