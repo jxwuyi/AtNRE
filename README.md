@@ -12,4 +12,8 @@ This repository is the source code for the paper.
 
 For data, please refer to the references in our paper and download from the original sources of the datasets.
 
+*Original NYT dataset ([paper](http://aclweb.org/anthology/P16-1200), [link](https://github.com/thunlp/NRE/tree/master/data))*
+
+*Original NAACL dataset ([paper](https://aclweb.org/anthology/N/N16/N16-1104.pdf), [link](https://www.cs.washington.edu/ai/gated_instructions/naacl_data.zip))*
+
 The code is under BSD-3 license.
