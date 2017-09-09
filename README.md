@@ -1,6 +1,6 @@
 # AtNRE: Adversarial training for Neural Relation Extraction
 
-This repository is the source code for the paper.
+This repository is the source code for the [paper](https://people.eecs.berkeley.edu/~russell/papers/emnlp17-relation.pdf):
 
 ### Adversarial Training for Relation Extraction
 
