@@ -16,6 +16,6 @@ For data, please refer to the references in our paper and download from the orig
 
 *Original NAACL dataset ([paper](https://aclweb.org/anthology/N/N16/N16-1104.pdf), [link](https://www.cs.washington.edu/ai/gated_instructions/naacl_data.zip))*
 
-For reproducibility of our results, [here](https://people.eecs.berkeley.edu/~jxwuyi/data/AtNRE_processed_data.zip) is the pickled data we processed and used by our code. **PLEASE** (1) do not distributed and (2) refer to the original data sources for either personal use or academic purpose.
+For reproducibility of our results, [here](https://people.eecs.berkeley.edu/~jxwuyi/data/AtNRE_processed_data.zip) is the processed pickled data used in the code. **PLEASE** (1) do not distributed and (2) refer to the original data sources for either personal use or academic purpose.
 
 The code is under BSD-3 license.
